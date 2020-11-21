@@ -1,6 +1,6 @@
 # ui.observer
 
-> <DESCRIPTION>
+> website about buttons, icons, scrolling patterns, and interfaces all around us
 
 
 <a href='preview.png'><img height=100 border=2 align='right' alt='preview' src='preview.png'></a>
@@ -13,7 +13,7 @@
 - https://github.com/dym-sh/ui.observer
 - https://gitlab.com/dym-sh/ui.observer
 - https://dym.sh/lab/ui.observer
-- hyper://<TBD> /[?](https://beakerbrowser.com)
+- hyper://216cdc482e20d3213ccaedc904737a7cf655dea516ffe198df695f5d738bfd8b /[?](https://beakerbrowser.com)
 
 
 ## license
