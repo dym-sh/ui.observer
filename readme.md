@@ -12,7 +12,7 @@
 ## mirrors
 - https://github.com/dym-sh/ui.observer
 - https://gitlab.com/dym-sh/ui.observer
-- https://dym.sh/lab/ui.observer
+- https://dym.sh/ui.observer
 - hyper://216cdc482e20d3213ccaedc904737a7cf655dea516ffe198df695f5d738bfd8b /[?](https://beakerbrowser.com)
 
 
